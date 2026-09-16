@@ -1,0 +1,8 @@
+int X = 5
+int Y = 0
+if (X == 0):
+    X = 1
+    Y = 2
+else:
+    X = 2
+    Y = 3

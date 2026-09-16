@@ -1,0 +1,7 @@
+# Declarations et types
+float Pi = 3.14
+char C = 'a'
+bool Ok = true
+int Tab[10]
+int A, B, Cpt = 0
+int Neg = (-5)

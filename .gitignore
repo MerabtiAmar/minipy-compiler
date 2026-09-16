@@ -1,0 +1,8 @@
+# Fichiers générés
+build/
+lex.yy.c
+synt.tab.c
+synt.tab.h
+*.exe
+*.o
+*.out

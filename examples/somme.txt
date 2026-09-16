@@ -1,0 +1,9 @@
+# Somme des X premiers entiers (projet L3)
+int X = 50
+int Res = 0
+if (X == 0):
+    X = 0
+
+while (X != 0):
+    Res = Res + X
+    X = X - 1

@@ -1,0 +1,4 @@
+int I
+int Total = 0
+for I in range (0, 10):
+    Total = Total + I
